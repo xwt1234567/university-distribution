@@ -1,0 +1,215 @@
+{  
+  "南京市": {  
+      "adcode": "320100", 
+      "longitude": 118.76,
+      "latitude": 32.03,
+      "scenic_spots": [  
+          {
+            "name": "南京大学",
+            "level": "985",
+            "longitude": 118.78,
+            "latitude": 32.06
+          },
+          {
+            "name": "东南大学",
+            "level": "985",
+            "longitude": 118.79,
+            "latitude": 32.06
+          },
+          {
+            "name": "南京航空航天大学",
+            "level": "211",
+            "longitude": 118.82,
+            "latitude": 32.04
+          },
+          {
+            "name": "南京理工大学",
+            "level": "双一流",
+            "longitude": 118.85,
+            "latitude": 32.03
+          },
+          {
+            "name": "南京工业大学",
+            "level": "本科",
+            "longitude": 118.64,
+            "latitude": 32.08
+          },	
+          {
+            "name": "河海大学",
+            "level": "211",
+            "longitude": 118.76,
+            "latitude": 32.06
+          },
+          {
+            "name": "南京林业大学",
+            "level": "双一流",
+            "longitude": 118.81,
+            "latitude": 32.08
+          },
+          {
+            "name": "南京邮电大学",
+            "level": "双一流",
+            "longitude":118.93,
+            "latitude":32.11
+          },
+          {
+            "name": "河海大学",
+            "level": "211",
+            "longitude": 118.76,
+            "latitude": 32.06
+          },
+          {
+            "name": "南京信息工程大学",
+            "level": "双一流",
+            "longitude": 118.72,
+            "latitude": 32.21
+          },
+          {
+            "name": "南京农业大学",
+            "level": "211",
+            "longitude": 118.84,
+            "latitude": 32.04
+          },
+          {
+            "name": "中国药科大学",
+            "level": "211",
+            "longitude": 118.91,
+            "latitude": 31.90
+          },
+          {
+            "name": "南京师范大学",
+            "level": "211",
+            "longitude": 118.90,
+            "latitude": 32.10
+          }
+      ]  
+  },  
+  "连云港市": {  
+      "adcode": "320700", 
+      "longitude": 119.252397,
+      "latitude": 34.48284,
+      "scenic_spots": [  
+          {
+            "name": "江苏海洋大学",
+            "level": "本科",
+            "longitude": 119.22,
+            "latitude": 34.61
+          }
+      ]  
+  },
+  "苏州市": {  
+      "adcode": "320500", 
+      "longitude": 120.62,
+      "latitude": 31.25,
+      "scenic_spots": [  
+          {
+            "name": "苏州大学",
+            "level": "211",
+            "longitude": 120.64,
+            "latitude": 31.31
+          },
+          {
+            "name": "苏州科技大学",
+            "level": "本科",
+            "longitude": 120.57,
+            "latitude": 31.25
+          }
+      ]  
+  },
+  "镇江市": {  
+      "adcode": "321100", 
+      "longitude": 119.42,
+      "latitude": 32.19,
+      "scenic_spots": [  
+          {
+            "name": "江苏科技大学",
+            "level": "本科",
+            "longitude": 119.46,
+            "latitude": 32.20
+          },
+          {
+            "name": "江苏大学",
+            "level": "本科",
+            "longitude": 119.51,
+            "latitude": 32.20
+          }
+      ]  
+  },  
+  "徐州市": {  
+      "adcode": "320300", 
+      "longitude": 117.21,
+      "latitude": 34.25,
+      "scenic_spots": [  
+          {
+            "name": "中国矿业大学",
+            "level": "211",
+            "longitude": 117.14,
+            "latitude": 34.21
+          },
+          {
+            "name": "徐州医科大学",
+            "level": "本科",
+            "longitude": 117.25,
+            "latitude": 34.26
+          },
+          {
+            "name": "江苏师范大学",
+            "level": "本科",
+            "longitude": 117.18,
+            "latitude": 34.20
+          }
+      ]  
+  },
+  "无锡市": {  
+      "adcode": "320200", 
+      "longitude": 120.31,
+      "latitude": 31.48,
+      "scenic_spots": [  
+          {
+            "name": "江南大学",
+            "level": "211",
+            "longitude": 120.27,
+            "latitude": 31.49
+          }
+      ]  
+  },
+  "南通市": {  
+      "adcode": "320600", 
+      "longitude": 120.90,
+      "latitude": 31.97,
+      "scenic_spots": [  
+          {
+            "name": "南通大学",
+            "level": "本科",
+            "longitude": 120.91,
+            "latitude": 31.97
+          }
+      ]  
+  },
+  "常州市": {  
+      "adcode": "320400", 
+      "longitude": 119.97,
+      "latitude": 31.81,
+      "scenic_spots": [  
+          {
+            "name": "常州大学",
+            "level": "本科",
+            "longitude": 119.95,
+            "latitude": 31.69
+          }
+      ]  
+  },
+  "扬州市": {  
+      "adcode": "321000", 
+      "longitude": 119.43,
+      "latitude": 32.38,
+      "scenic_spots": [  
+          {
+            "name": "扬州大学",
+            "level": "本科",
+            "longitude": 119.42,
+            "latitude": 32.39
+          }
+      ]  
+  }
+}
